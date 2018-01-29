@@ -1,8 +1,7 @@
+
 # Python 资源大全中文版 
 
-> 原文：[Python 资源大全中文版 ](https://github.com/jobbole/awesome-python-cn)
-
-> 作者：[jobbole](https://github.com/jobbole)
+> 本开源书 forked from [Python 资源大全中文版](https://github.com/jobbole/awesome-python-cn)，作者为 [jobbole](https://github.com/jobbole)，欢迎大家 star 原作者的 [repo](https://github.com/jobbole/awesome-python-cn)，以便获得最新更新，谢谢！
 
 我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由伯乐在线持续更新。
 
@@ -1204,13 +1203,4 @@ Python 实现的算法和设计模式。
 
 <h4>中文站点</h4>
 
-* 伯乐在线 Python 频道：分享 Python 开发技术、相关的行业动态。[官网](http://python.jobbole.com/)
-
-<h4>英文站点</h4>
-
-* 《[值得关注的 10 个 Python 英文博客](http://python.jobbole.com/81730/)》
-
-<h3 id="weibo-weixin">微博、微信公众号</h3>
-* Python开发者 微博：[@Python开发者](http://weibo.com/u/5305630013)
-* Python开发者：人生苦短，我用 Python。Python 越来越受广大程序员的喜爱。「Python开发者」是最受欢迎的、专注分享Python技术的微信公众号，主要分享 Python 相关的技术文章、工具资源和资讯等。
-<br><img src="http://ww3.sinaimg.cn/small/63918611gw1epb2cbm6cmj2046046wek.jpg" width=150 height=150>
+* 伯乐在线 Python 频
